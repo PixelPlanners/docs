@@ -1,6 +1,6 @@
 ---
 label: Sample
-layout: page
+layout: default
 order: 100
 authors:
   - name: s3tupw1zard
