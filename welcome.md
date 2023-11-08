@@ -1,8 +1,3 @@
----
-label: Welcome
-layout: page
-order: 100
----
-# Sample
+# Welcome
 
-This is a sample welcome page demonstrating page metadata.
+This is a sample welcome page created using Retype.
